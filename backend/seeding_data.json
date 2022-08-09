@@ -1,0 +1,1094 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Administer User",
+      "email": "admin@gmail.com",
+      "password": "$2b$12$qmT4eg6XLpC7OGFN18FV0eTCBuecTE7TVN21Xip1N63wDs4KtwU9u",
+      "biography": "I am the admin",
+      "account_type": "admin",
+      "profile_image_src": ""
+    },
+    {
+      "id": 2,
+      "username": "Dr Eric Mak",
+      "email": "expert1@gmail.com",
+      "password": "$2b$12$qmT4eg6XLpC7OGFN18FV0eTCBuecTE7TVN21Xip1N63wDs4KtwU9u",
+      "biography": "Dr Eric graduated from Western Sydney University in 2016 and has worked at Nepean Hospital and St John of God Hawkesbury Hospital. He commenced working as a GP in 2019, having worked in Armidale, Tamworth and Inverell in rural and regional NSW. He obtained his Fellowship of the Royal Australian College of General Practitioners, and was involved in teaching and interviewing for the School of Rural Medicine at the University of New England.He enjoys all aspects of general practice. Dr Eric can also speak Cantonese.",
+      "account_type": "expert",
+      "profile_image_src": ""
+    },
+    {
+      "id": 3,
+      "username": "Dr Anthea Charalambous",
+      "email": "expert2@gmail.com",
+      "password": "$2b$12$qmT4eg6XLpC7OGFN18FV0eTCBuecTE7TVN21Xip1N63wDs4KtwU9u",
+      "biography": "Dr. Anthea Charalambous (BMedSc, MBBS, FRACGP) is a graduate of The University of Sydney, Fellow of The Royal Australian College of General Practitioners and is fluent in Greek.Her interests include Adolescent & Young Adult Health, Child Health, Family Planning, Mental Health, Preventative Health, Public Health, Sexual Health, Sports Medicine, Travel Medicine and Women's Health. She is a firm believer in the importance of health promotion through medical journalism and public education.",
+      "account_type": "expert",
+      "profile_image_src": ""
+    },
+    {
+      "id": 4,
+      "username": "Dr Peter Patton",
+      "email": "expert3@gmail.com",
+      "password": "$2b$12$qmT4eg6XLpC7OGFN18FV0eTCBuecTE7TVN21Xip1N63wDs4KtwU9u",
+      "biography": "Peter Patton (MB.ChB. Dip P.H) graduated from Cape Town university in December 1973 and has a Diploma in Public Health. His G.P interests are preventative medicine, travel medicine, sexual health and skin checks. He is also able to insert IUD's and implanon.",
+      "account_type": "expert",
+      "profile_image_src": ""
+    },
+    {
+      "id": 5,
+      "username": "Dr Judith Salmon",
+      "email": "expert4@gmail.com",
+      "password": "$2b$12$qmT4eg6XLpC7OGFN18FV0eTCBuecTE7TVN21Xip1N63wDs4KtwU9u",
+      "biography": "Dr Judith Salmon graduated from UNSW. She has an interest in Antenatal, Paediatric and general medicine. Dr Salmon has been working at the University Health Service for over 20 years.",
+      "account_type": "expert",
+      "profile_image_src": ""
+    },
+    {
+      "id": 6,
+      "username": "Dr Bill Kefalas",
+      "email": "expert5@gmail.com",
+      "password": "$2b$12$qmT4eg6XLpC7OGFN18FV0eTCBuecTE7TVN21Xip1N63wDs4KtwU9u",
+      "biography": "Dr Bill Kefalas MBBS (Melb), M. Med.Ed (Syd), is an experienced GP and medical educator with a strong interest and involvement in student health, clinical family medicine and medical education at all levels. He is a graduate of the Melbourne University Medical School and holds a Masters in Medical Education from Sydney University.",
+      "account_type": "expert",
+      "profile_image_src": ""
+    },
+    {
+      "id": 7,
+      "username": "Dr Alison Parcsi",
+      "email": "expert6@gmail.com",
+      "password": "$2b$12$qmT4eg6XLpC7OGFN18FV0eTCBuecTE7TVN21Xip1N63wDs4KtwU9u",
+      "biography": "Alison joined the UNSW Health Service in 2003 after working in many and varied practices, both rural and urban and a year as a volunteer, emergency doctor in Kiribati. Alison enjoys looking after patients of all ages, genders, is LGBTQI friendly and enjoys the cultural diversity of university practice.Her areas of special interest are all aspects of women's health, sexual health, children's health, travel medicine and mental health.",
+      "account_type": "expert",
+      "profile_image_src": ""
+    },
+    {
+      "id": 8,
+      "username": "Dr Pei Chen",
+      "email": "expert7@gmail.com",
+      "password": "$2b$12$qmT4eg6XLpC7OGFN18FV0eTCBuecTE7TVN21Xip1N63wDs4KtwU9u",
+      "biography": "Pei grew up in Malaysia and graduated from University of New South Wales. Pei is experienced in all aspects of general questions about career advice and study from home.",
+      "account_type": "expert",
+      "profile_image_src": ""
+    },
+    {
+      "id": 9,
+      "username": "Dr Richard Ng",
+      "email": "expert8@gmail.com",
+      "password": "$2b$12$qmT4eg6XLpC7OGFN18FV0eTCBuecTE7TVN21Xip1N63wDs4KtwU9u",
+      "biography": "Dr Richard Ng initially worked at the UNSW Health Service in 1999 and has worked here continuously since 2009. His interests lie in sports and musculoskeletal medicine, having worked with the Army and in the Army Reserve, with various rugby teams and in occupational medicine (in mining). This interest is also reflected by his own regular pursuits in running and skiing. Dr Ng is a QA examiner for the Royal Australian College of GPs and has been involved in medical education including GP registrars and mentoring medical students.",
+      "account_type": "expert",
+      "profile_image_src": ""
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "category_name": "Studying from Home",
+      "category_image_src": "https://cloud9.edupage.org/cloud?z%3A5S7sJ5Jdpxz%2F0VgQHKmXRCpw1aKm813Xp7rs5pPG4MZJJ0G7x0TIs%2F2%2FlnyVxTUR5KpJ%2BU1GNr96wpHY%2BnhiQxlnKjxifpRTgI2FWG0%2Fyok%3D",
+      "category_description": "Here's some information to help you avoid inefficiencies while studying at home"
+    },
+    {
+      "id": 2,
+      "category_name": "Mental health",
+      "category_image_src": "https://pbs.twimg.com/media/E0oEYlIXEAEHpMl.jpg:large",
+      "category_description": "This page provides information about mental health for people with mental distress."
+    },
+    {
+      "id": 3,
+      "category_name": "Vaccinations",
+      "category_image_src": "https://content.govdelivery.com/attachments/fancy_images/USVHA/2021/01/4005196/covid-vaccine-01_original.png",
+      "category_description": "Here you can find information about the influenza and COVID vaccinations"
+    },
+    {
+      "id": 4,
+      "category_name": "COVID-19",
+      "category_image_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7SIqY_4xNJdViJmuuZJ2bAvex-MvSL3mnw&usqp=CAU",
+      "category_description": "Here you can find some information about COVID-19 we received from students"
+    },
+    {
+      "id": 5,
+      "category_name": "career advice",
+      "category_image_src": "https://dorothydalton.com/wp-content/uploads/2016/08/career-advice-2.jpg",
+      "category_description": "Here you can find some professional career skills and advice here"
+    }
+  ],
+  "tag": [
+    {
+      "id": 1,
+      "tag_name": "Boosters"
+    },
+    {
+      "id": 2,
+      "tag_name": "Getting Your Vaccine"
+    },
+    {
+      "id": 3,
+      "tag_name": "Safety"
+    },
+    {
+      "id": 4,
+      "tag_name": "Preparing for Your Vaccine"
+    },
+    {
+      "id": 5,
+      "tag_name": "After Your Vaccine"
+    },
+    {
+      "id": 6,
+      "tag_name": "Basics"
+    },
+    {
+      "id": 7,
+      "tag_name": "Help stop the spread of COVID-19"
+    },
+    {
+      "id": 8,
+      "tag_name": "Spread"
+    },
+    {
+      "id": 9,
+      "tag_name": "If You Have COVID-19"
+    },
+    {
+      "id": 10,
+      "tag_name": "If You Come into Close Contact with Someone with COVID-19"
+    },
+    {
+      "id": 11,
+      "tag_name": "Children"
+    },
+    {
+      "id": 12,
+      "tag_name": "Contact Tracing"
+    }
+  ],
+  "qa": [
+    {
+      "id": 1,
+      "title": "How to make an efficient schedule?",
+      "body": "Spend some time each morning planning your day. Plan out what you want to achieve academically but also schedule in time for some breaks, self-care and calls with friends.  Ticking off those items at the end of the day helps give us a sense of achievement and helps us stay on track.",
+      "author_id": 1,
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "title": "How to organise your workspace?",
+      "body": "While it may be tempting to work from the comfort of your bed, it is best to have separate areas for work and rest. Keeping your bed for sleep only helps your brain realise when it is bedtime and will help you fall asleep faster at night.\n\nClear out an area that you can study from, ideally somewhere well-lit with good ventilation and minimal distraction. Remember to consider social distancing recommendations (1.5m away from anyone else) and clean the area regularly. Some photographs of family and friends or cute animal pics may help brighten your desk!",
+      "author_id": 1,
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "title": "How to change out of your pyjamas?",
+      "body": "Let's face it, we've all dreamed of lying on the couch in our pyjamas while crammed on packed public transport on a cold winter's morning. As tempting as it sounds, working from our pyjamas really blurs the boundaries between study time and downtime in the same way as working from bed. Getting showered and dressed (even into track pants) helps you get into work mode and it is a simple act of self-care.",
+      "author_id": 1,
+      "category_id": 1
+    },
+    {
+      "id": 4,
+      "title": "How to take regular breaks?",
+      "body": "While on campus you are likely to break up your day by getting coffee and chatting with friends. Studying from home should be no different. Regular breaks are essential for memory consolidation and overall wellbeing. Try a Zoom coffee date with your friends, practice mindfulness or get outdoors for a walk in the fresh air. Remember, social distancing does not equal social isolation.",
+      "author_id": 1,
+      "category_id": 1
+    },
+    {
+      "id": 5,
+      "title": "How to define when the day is done?",
+      "body": "\"Studying from home can make it hard to switch off at the end of the day. Set a time when you will finish and stick to it. Put your laptop and books away until the next day and move away from your workspace.  You're probably going to have more time on your hands without the usual commute to campus. Use this time wisely on all those things you haven't had time for in the past.\n\nExperiment with free meditation apps\nLearn a new instrument\nJournal\nMaster a new language (try out free apps)\nGet creative with arts and crafts\nOr do nothing - that's okay too!\nWanna watch more Netflix than anyone has ever watched? Why not? \"",
+      "author_id": 1,
+      "category_id": 1
+    },
+    {
+      "id": 6,
+      "title": "How To Overcome 5 Common Problems Faced By Students In eLearning",
+      "body": "eLearning, being the latest wave of education, is already having a fair show despite posing challenges for both instructors and students. While instructors need to put in intensive work and time to design the instruction, students need to equip themselves with technical proficiency to decode the course material. There are 5 common problems faced by students in eLearning classes and which they need to be solved through proper initiatives for the students' future benefits:\n\n1. Adaptability Struggle.  \nSwitching from traditional classroom and face to face instructor training to computer-based training in a virtual classroom makes the learning experience entirely different for students. Their resistance to change doesn't allow them to adapt to the online learning environment, whereas it takes time for them to get accustomed to Course Management Systems (CMS) and the methods of computer-based education. While passive listening and notes taking are expected in a traditional classroom, online discussions or creating a web page demand springing into action. Students with a 'traditional' mindset find it difficult to adapt; however, they need to accept the new learning circumstances with an open mind and heart. Understanding the benefits of eLearning and even discussing them with their peers may change this mindset and better prepare students for online classes.\n\n2. Technical Issues.\nMany students are not provided with the high bandwidth or the strong internet connection that online courses require, and thus fail to catch up with their virtual classmates: Their weak monitors make it hard to follow the Course Management System and their learning experience becomes problematic. Moreover, most of them live off campus and find it difficult to keep in tune with the technical requirements of the chosen course. Some of them don't even own computers and seek help in Learning Resource Centers for technical assistance. The only solution to this problem is knowing exactly what kind of technological support they will need for a certain course before enrolling in it, as well as properly equipping themselves for the course's successful completion.\n\n3. Computer Literacy.\nAlthough students are generally tech savvy, and thus able to manage computers well, lack of computer literacy is a major issue among students today. Many of them cannot operate basic programs such as Microsoft Word and PowerPoint and therefore are not able to handle their files. Furthermore, many students find fixing basic computer problems troublesome, as they have no knowledge in this area. However, technological proficiency is a must for following online courses, as it enables students to manage their assignments and courseware in an organized manner without struggling. Basic courses in computer literacy enhance students' knowledge in the field; having a fundamental knowledge of computer hardware would help them participate in online classes without interruptions and hindrances.\n\n4. Time Management.\nTime management is a difficult task for eLearners, as online courses require a lot of time and intensive work. Furthermore, whereas it is mostly adults who prefer web-based learning programs for their place and time flexibility, they rarely have the time to take the courses due to their various everyday commitments. A regular schedule planner would be a significant help to these learners, as they could even set reminders for their courses and assignments.\n\n5.Self-Motivation.\nSelf-motivation is an eLearning essential requirement; however, many online learners lack it, much to their surprise. After enrolling in distance learning courses, many learners fall behind and nurture the idea of giving up, as difficulties in handling a technological medium also seem insurmountable. Students need to find the motivation to follow the new educational trends and also properly equip themselves for future challenges in their education and careers. Only a positive attitude will help them overcome the challenges in eLearning; though this is hard to practice, students need to understand that it is necessary in order to reap the eLearning's benefits in the future.\n",
+      "author_id": 1,
+      "category_id": 1
+    },
+    {
+      "id": 7,
+      "title": "How much does it cost?",
+      "body": "All appointments are completely free of charge for students who are currently enrolled at UNSW.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 8,
+      "title": "Worried about sharing your concerns?",
+      "body": "All information we gather is completely confidential. Your personal information will not be shared with anyone without your consent, this includes your faculty or lecturers. For further information, see our privacy statement by clicking here. ",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 9,
+      "title": "What can I expect if offered an appointment?",
+      "body": "Appointments are scheduled to last around 30 minutes. We will ask you some questions to help work out what might help. We always work with you as an individual and will always treat you with respect.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 10,
+      "title": "I'm not currently living in Australia, can I access Mental Health Connect?",
+      "body": "MHC is available to students living outside of Australia and we can help connect you with the right service. You can also contact Medibank +61(2) 8905 0307 any time of the day or night to chat with someone.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 11,
+      "title": "What happens after an appointment?",
+      "body": "Depending on your circumstances and only with your consent, you may be referred to other services at UNSW or support in your local area. We always provide students with a clear plan for next steps.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 12,
+      "title": "What causes depression?",
+      "body": "There are lots of reasons why someone might feel depressed, but sometimes there isn't any obvious reason. It can be caused by a difficult life event - losing a job, relationship difficulties, or physical health problems like illness and disability, or low self-esteem.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 13,
+      "title": "How can I tell if someone has a mental health problem?",
+      "body": "Common mental health problems such as depression and anxiety affect one in four people. But it's still something that lots of people find hard to talk about, which can mean that many people keep their feelings about having a mental health problem a secret, even from close family and friends. You can't always tell if someone has a mental illness - people might look as though they're fine and doing well, when actually they're silently struggling.If someone has bipolar disorder, they may show significant mood swings, or appear more withdrawn if they are dealing with self-harm or negative thoughts, but everything is dependent on the individual and there is no one way to know whether someone is unwell.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 14,
+      "title": "How can I speak to and help someone with a mental health problem like depression or anxiety?",
+      "body": "Here are some suggestions for how you can help people living with anxiety and depression:\n\nEncourage them to seek help\nPerhaps the most important thing you can do is encourage them to seek appropriate treatment. You can reassure them by letting them know that help is out there, and that you will be there to support them.\n\nDon't be afraid to bring it up\nIt takes a lot for someone to say, 'I need help', but it doesn't hurt to raise the subject yourself. Try to be open about depression and difficult emotions, so they know that it's OK to talk about what they're experiencing. Sometimes, you don't have to explicitly talk about mental health to find out how they are doing - it can be as simple as texting them to let them know you're thinking of them, or suggesting that you go out for dinner or a walk.\n\nDon't blame them\nTry not to blame them for feeling anxious or depressed, or tell them to 'pull themselves together'. They are probably already blaming themselves, and criticism is likely to make them feel even worse.\n\nBe patient\nSomeone with depression may get more irritable, and be more liable to misunderstand others, or feel misunderstood, than usual. They may need reassurance in some situations.\n\nLook after yourself\nYour mental health is important, too, and looking after someone else could put a strain on your wellbeing. If you are able to stay well, you are more likely to be able to provide good support for longer. This could include trying to stay healthy and physically active, confiding in someone - other than the person you are worried for \u00AD- taking a break from time to time and being realistic about what you can and can't do yourself. Mind has lots of advice on helping someone else.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 15,
+      "title": "What is a personality disorder?",
+      "body": "If you have been diagnosed with a personality disorder it doesn't mean that you're fundamentally different from anyone else, but at times you might need extra support.\n\nThe word 'personality' refers to the pattern of thoughts, feelings and behaviour that makes each of us the individuals that we are. These affect the way we think, feel and behave towards others and ourselves.\n\nWe don't always think, feel and behave in exactly the same way - it depends on the situation we are in, the people with us and many other things. But we mostly tend to behave in fairly predictable ways.\n\nPersonality disorders are a type of mental health problem where your attitudes, beliefs and behaviours cause you longstanding problems in your life. Your experience of personality disorder is unique to you. However, you may often experience difficulties in how you think about yourself and others. You may find it difficult to change these unwanted patterns.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 16,
+      "title": "What is post-traumatic stress disorder (PTSD)?",
+      "body": "The term PTSD is used to describe a range of psychological symptoms, which can follow traumatic events. PTSD can be triggered by anything that consciously, or unconsciously, reminds an individual of a specific trauma in their lives. For some people, this is a single, major, significant event - such as a car accident - and for others an ongoing series of events, such as being in conflict zones, or experiencing abuse.\n\nSymptoms of PTSD don't necessarily emerge straight away, and in some, don't develop until many years after the event. They can include vivid flashbacks, nightmares, lack of sleep and feeling emotionally cut-off. PTSD is surprisingly common - as many as 10% of the population will experience it at some time in their lives.\n\nIf someone has been living with distressing symptoms for over a month after a traumatic event they should see their GP, who can refer them for specialist help. Effective treatment does exist, and you can recover from PTSD.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 17,
+      "title": "Are drugs or therapy better for mental health conditions?",
+      "body": "Different people will find that different treatments help to manage their mental health - whether this is medication, or alternatives such as talking therapies, exercise or a mixture.\n\nWhile antidepressants can be effective for some, they are not the solution for everyone and are not generally recommended as a first-line treatment for mild to moderate depression. Anyone taking antidepressants should be made aware of the possible pros and cons for them, and they should have their treatment reviewed regularly.\n\nTalking therapies such as cognitive behavioural therapy (CBT) and counselling are becoming more widely available as part of the Improving Access to Psychological Therapies programme. Giving people a choice of treatments is key, whether that's drugs, talking therapies, or alternatives such as arts therapy or exercise.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 18,
+      "title": "What is the best way to improve my mental wellbeing?",
+      "body": "We all have mental health to look after, as well as physical health, and the way we live our lives has a direct influence on them both. There are lots of small things we can change to improve or maintain good mental health and wellbeing without spending lots of money to do it.\n\nDiet\nEating fresh fruit and vegetables daily helps provide the nutrients needed to nourish your mind and body. Keeping regular meal times and choosing foods that release energy slowly, such as oats and unrefined wholegrains, also help. Reducing your intake of caffeine, alcohol and sugary foods in the evening also helps as they can all disturb your sleep patterns.\n\nSleep\nThere's a close relationship between sleep and mental health. Living with a mental health problem can affect how well you sleep, and poor sleep can have a negative impact on your mental health, so prioritising sleep can help both with maintaining your wellbeing and your recovery.\n\nBeing outdoors\nThere is strong evidence to suggest that the combined mix of colours, sounds and smells we find outdoors act together to stimulate our senses, which helps increase our overall wellbeing. This means that gardening and other outdoor hobbies often provide a brilliant alternative to traditional sports and exercise.\n\nExercise\nStructured physical activity can play a key role in someone's recovery from a mental health problem and in staying well for years to come. When you exercise, your brain chemistry changes through the release of 'feel good' hormones called endorphins.\n\nJoining activity groups such as a running club is a fantastic way of improving your social network. Being sociable and connecting with other people is rewarding in its own right and can significantly improve mental wellbeing. Group yoga or Pilates classes can help you learn breathing techniques, which can encourage you to relax and switch off from external stresses.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 19,
+      "title": "I feel quite low sometimes. Should I see a therapist?",
+      "body": "One of the most important things to do if you're feeling down is to open up. Most people feel more comfortable confiding in a close friend or family member in the first instance. Often simply talking about it helps. If the problem continues and begins to interfere with everyday life, you can speak to your GP, who can talk you through the support that's available. For more advice and support, visit the Mind website.",
+      "author_id": 1,
+      "category_id": 2
+    },
+    {
+      "id": 20,
+      "title": "Do I need a COVID-19 vaccine booster?",
+      "body": "Yes. The protection COVID-19 vaccines provide decreases over time, especially for certain groups of people. Recent data  suggest their effectiveness at preventing infection or severe illness wanes over time, especially in people ages 65 years and older.The emergence of the variants further emphasizes the importance of vaccination, boosters, and prevention efforts needed to protect against COVID-19.CDC recommends COVID-19 vaccines for everyone ages 6 months and older, and boosters for everyone 5 years and older, if eligible.Data show that an mRNA booster increases the immune response, which improves protection against getting a serious COVID-19 infection.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 21,
+      "title": "If we need a booster, are the vaccines working?",
+      "body": "Yes. COVID-19 vaccines are working well to prevent severe illness, hospitalization, and death. However, public health experts see reduced protection over time against mild and moderate disease, especially among certain populations.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 22,
+      "title": "Do boosters use the same ingredients as existing vaccines?",
+      "body": "Yes. COVID-19 boosters are the same ingredients (formulation) as the current COVID-19 vaccines. However, in the case of a Moderna COVID-19 vaccine booster, the dose is half of the amount of the vaccine people get for their primary series.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 23,
+      "title": "What are the risks to getting a booster?",
+      "body": "Adults and children may have some side effects from a COVID-19 vaccine, including pain, redness or swelling at the injection site, tiredness, headache, muscle pain, chills, fever, and nausea. Serious side effects are rare, but may occur.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 24,
+      "title": "Am I still considered 'fully vaccinated' if I don't get a booster?",
+      "body": "Yes, the definition of fully vaccinated has not changed and does not include a booster. Everyone is still considered fully vaccinated two weeks after their second dose in a two-dose series, such as the Pfizer-BioNTech and Moderna vaccines, or two weeks after the single-dose J&J/Janssen vaccine. Fully vaccinated, however, is not the same as having the best protection.  People are best protected when they stay up to date with COVID-19 vaccinations, which includes getting boosters when eligible",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 25,
+      "title": "If I have received a J&J/Janssen COVID-19 vaccine and a J&J/Janssen COVID-19 booster, are additional boosters recommended?",
+      "body": "People (except those who are moderately or severely immunocompromised) who first received a J&J/Janssen COVID-19 vaccine and got it again for their booster may also receive a booster of an mRNA COVID-19 vaccine (Pfizer-BioNTech or Moderna). Get the mRNA booster at least 4 months after the most recent J&J/Janssen booster. One CDC study found that adults who received the J&J/Janssen COVID-19 vaccine as both their primary and booster had lower levels of protection against COVID-19-associated emergency department and urgent care visits during Omicron compared to adults who received an mRNA COVID-19 booster.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 26,
+      "title": "Am I required to get vaccinated for work?",
+      "body": "An employer may require that their workers be vaccinated. Check directly with your employer to see if they have any vaccination requirements or rules that apply to you.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 27,
+      "title": "How many doses of COVID-19 vaccine will I need to get to complete my primary series?",
+      "body": "The number of vaccine doses you need to complete your primary series depends on which vaccine you receive. Two doses of Pfizer-BioNTech vaccine 3-8* weeks apart, or Three doses of Pfizer-BioNTechvaccinefor ages 6 months to 4 years, first and second dose 3-8 weeks apart, second and third dose at least 8 weeks apart*. Two doses of Moderna vaccine 4-8* weeks apart, or One dose of Johnson & Johnson's Janssen (J&J/Janssen) vaccine.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 28,
+      "title": "How long does protection from a COVID-19 vaccine last?",
+      "body": "Scientists are monitoring how long COVID-19 vaccine protection lasts. COVID-19 vaccines work well to prevent severe illness, hospitalization, and death. However, public health experts are seeing decreases in the protection COVID-19 vaccines provide over time, especially for certain groups of people. ",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 29,
+      "title": "Do COVID-19 vaccines affect your menstrual cycle (period)?",
+      "body": "Results from recent research studies show that people who menstruate may observe small, temporary changes in menstruation after COVID-19 vaccination, including: Longer duration of menstrual periods Shorter intervals between periods. Heavier bleeding than usual,Despite these temporary changes in menstruation, there is no evidence that COVID-19 vaccines cause fertility problems",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 30,
+      "title": "What are the ingredients in COVID-19 vaccines?",
+      "body": "Vaccine ingredients vary by manufacturer. None of the vaccines contain eggs, gelatin, latex, or preservatives. All COVID-19 vaccines are free from metals, such as iron, nickel, cobalt, lithium, and rare earth alloys. They are also free from manufactured products such as microelectronics, electrodes, carbon nanotubes, and nanowire semiconductors. None of the COVID-19 vaccines authorized or approved in the United States contain any live virus.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 31,
+      "title": "If I am pregnant or planning to become pregnant, can I get a COVID-19 vaccine?",
+      "body": "Yes, COVID-19 vaccination is recommended for people who are pregnant, breastfeeding, or trying to get pregnant now, as well as people who might become pregnant in the future. People with COVID-19 during pregnancy are more likely to deliver a preterm (earlier than 37 weeks) or stillborn infant and may also be more likely to have other pregnancy complications.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 32,
+      "title": "Why should I get vaccinated if I might get COVID-19 anyway?",
+      "body": "COVID-19 vaccination significantly lowers your risk of severe illness, hospitalization, and death if you get infected. Compared to people who are up to date with their COVID-19 vaccinations, unvaccinated people are more likely to get COVID-19, much more likely to be hospitalized with COVID-19, and much more likely to die from COVID-19. Like all vaccines, COVID-19 vaccines are not 100% effective at preventing infection. Some people who are up to date with their COVID-19 vaccinations will get COVID-19 breakthrough infection. However, staying up to date with your COVID-19 vaccinations means that you are less likely to have a breakthrough infection and, if you do get sick, you are less likely to get severely ill or die. Staying up to date with COVID-19 vaccination also means you are less likely to spread the disease to others and increases your protection against new variants of SARS-CoV-2, the virus that causes COVID-19.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 33,
+      "title": "Do I need to wait after getting a flu vaccine or another vaccine before getting a COVID-19 vaccine?",
+      "body": "There is no recommended waiting period between getting a COVID-19 vaccine and other vaccines. You can get a COVID19 vaccine and other vaccines, including a flu vaccine, at the same visit. Experience with other vaccines has shown that the way our bodies develop protection, known as an immune response, and possible side effects after getting vaccinated are generally the same when given alone or with other vaccines.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 34,
+      "title": "If I already had COVID-19 and recovered, do I still need to get a COVID-19 vaccine?",
+      "body": "You should get a COVID-19 vaccine even if you already had COVID-19.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 35,
+      "title": "Can I get vaccinated against COVID-19 while I am currently sick with COVID-19?",
+      "body": "No. You should wait to be vaccinated until after you complete your isolation period. People who have symptoms will end isolation at a different time than people who do not have symptoms. This also applies to people who have been vaccinated but get COVID-19 before getting any additional or booster doses. Additionally, you may consider delaying your next vaccine (primary dose or booster) by 3 months from when your symptoms started or, if you had no symptoms, when you received a positive test. People who have had a known COVID-19 exposure should not seek vaccination until their quarantine periodhas ended to avoid potentially exposing healthcare personnel and others during the vaccination visit. This recommendation to wait also applies to people with a known COVID-19 exposure who have received their first dose and are in need of additional or booster doses.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 36,
+      "title": "Should I wear a mask if I have a weak immune system?",
+      "body": "If you have a condition or are taking medications that weaken your immune system, your immune response to COVID-19 vaccination may not be as strong as in people who are not immunocompromised. Check your county's COVID-19 Community Level for recommendations on whether you should wear a mask and additional actions you can take to protect yourself from COVID-19. Keep in mind that you may choose to wear a mask at any time based on your own level of comfort and personal risk.",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 37,
+      "title": "I was vaccinated in another country. How do I transfer my proof of vaccination from that country to get a proof of vaccination card in the United States?",
+      "body": "The white CDC COVID-19 vaccination cards are only issued to people vaccinated in the United States. However, there are several ways you can update your records with vaccines you received while outside the United States. ",
+      "author_id": 1,
+      "category_id": 3
+    },
+    {
+      "id": 38,
+      "title": "What is COVID-19?",
+      "body": "COVID-19 is a disease caused by a virus called SARS-CoV-2. Most people with COVID-19 have mild symptoms, but some people become severely ill. Older adults and people who have certain underlying medical conditions are more likely to get severely ill. Post-COVID conditions are a wide range of health problems people can experience four or more weeks after first getting COVID-19. Even those who do not become severely ill from COVID-19 may experience post-COVID conditions.",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 39,
+      "title": "When to wear masks?",
+      "body": "We strongly recommend that you were a mask in places where it's hard to maintain physical distancing from others such as:\nOn public transport, The local supermarket, shopping centres,gyms, Places of worship, In areas where there is community transmission.",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 40,
+      "title": "Why should I use a face mask?",
+      "body": "Masks provide a physical barrier against the virus. COVID-19 can only enter our bodies through our nose, mouth and eyes. Wearing a mask protects you and others.",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 41,
+      "title": "When to wash your hands ?",
+      "body": "To avoid infecting yourself you need to wash with soap and water for 20 seconds or sanitise your hands: Before you put on a mask, remove a mask and after you have disposed of or stored your mask, Before and after eating, When you come home, After using the toilet",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 42,
+      "title": "How does the virus spread?",
+      "body": "COVID-19 is spread in three main ways: Breathing in air when close to an infected person who is exhaling small droplets and particles that contain the virus. Having these small droplets and particles that contain virus land on the eyes, nose, or mouth, especially through splashes and sprays like a cough or sneeze. Touching eyes, nose, or mouth with hands that have the virus on them.",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 43,
+      "title": "What is community spread?",
+      "body": "Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected. Each health department determines community spread differently based on local conditions",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 44,
+      "title": "What are the recommendations for someone who has symptoms of COVID-19",
+      "body": "If you have symptoms of COVID-19 or think you might have COVID-19, follow the steps below to care for yourself and to help protect other people in your home and community. Stay at home (except to get tested or to get medical care). Wear a well-fitting mask around other people for 10 days. Do not travel for 10 days.\nSeparate yourself from others. Monitor your symptoms. Cover your coughs and sneezes. Wash your hands often. Clean surfaces in your home regularly. Avoid sharing personal household items.",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 45,
+      "title": "What should i do if I test positive for COVID",
+      "body": "If you receive a positive test result, you should Stay home for at least 5 days and isolate from others in your home.\nTell your close contacts. Wear a well-fitting mask when around others. If available, a N95 or KN95 respirator is recommended.",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 46,
+      "title": "What should i do if I have been in colse contact with Someone with COVID-19",
+      "body": "People who have been in close contact with someone who has COVID-19—excluding people who have had COVID-19 within the past 90 days or who are up to date with COVID-19 vaccines. People who have tested positive for COVID-19 within the past 90 days and recovered do not have to quarantine or get tested again as long as they do not develop new symptoms. People who develop symptoms again within 3 months of their first bout of COVID-19 may need to be tested again if there is no other cause identified for their symptoms. People who have been in close contact with someone who has COVID-19 are not required to quarantine if they are up to date with COVID-19 vaccines and do not have symptoms.",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 47,
+      "title": "What is the risk of my child becoming sick with COVID-19?",
+      "body": "Children can be infected with the virus that causes COVID-19 and can get sick with COVID-19. While most children with COVID-19 have mild symptoms or they may have no symptoms at all ('asymptomatic'), children can still become very ill and even die from COVID-19. Babies younger than 1 and children with certain underlying medical conditions are more likely to become very ill from COVID-19. Some children have developed a rare but serious disease that is linked to COVID-19 called multisystem inflammatory syndrome (MIS-C).",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 48,
+      "title": "What is multisystem inflammatory syndrome in children (MIS-C)?",
+      "body": "Multisystem inflammatory syndrome in children (MIS-C) is a rare but serious condition associated with COVID-19 where different body parts can become inflamed, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs. For information, see MIS-C.",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 49,
+      "title": "What are the symptoms and complications that COVID-19 can cause?",
+      "body": "People with COVID-19 have reported a wide range of issues from mild symptoms to severe illness. Symptoms may appear 2-14 days after exposure to the virus. If you have fever, cough, or other symptoms, you might have COVID-19.",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 50,
+      "title": "Who is considered a close contact of someone with COVID-19?",
+      "body": "For COVID-19, a close contact is anyone who was less than 6 feet away from an infected person for a total of 15 minutes or more over a 24-hour period (for example, three individual 5-minute exposures for a total of 15 minutes) - excluding K-12 school settings. An infected person can spread COVID-19 starting from 2 days before they have any symptoms (or, if they are asymptomatic, 2 days before their specimen that tested positive was collected), until they meet the criteria for discontinuing isolation. ",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 51,
+      "title": "Does mask use help determine if someone is considered a close contact?",
+      "body": "Except in K-12 school settings, a person is still considered a close contact even if one or both people wore a mask when they were together.",
+      "author_id": 1,
+      "category_id": 4
+    },
+    {
+      "id": 52,
+      "title": "How long should my CV/resume be?",
+      "body": "There are many opinions on CV/resume length and job seekers are bombarded with conflicting information that only serves to highlight that there is no definitive answer. If you have been asked by a recruiter or company for a CV/resume of a certain length, then it's best to comply with their wishes, but if you haven't been given a steer (which you usually won't have been) then a good yardstick is 2 - 3 pages. A one size fits all approach doesn't factor in different levels of seniority, so work on the basis that a more junior person's CV/resume is likely to be no more than 2 pages and a more senior person would be nearer 3. There are regional variations too; a UK CV is typically more detailed and longer than a US resume, and in the UK market, Contractors / Interim Managers are forgiven for having a CV up to 4 pages in length. South African CVs are usually very detailed and can sometimes be several pages in length and the Australian market is very much aligned with the UK. Most regions around the world stick to somewhere between 2 and 3 pages, so that's a good yardstick. Obviously, writing War & Peace isn't going to win over a recruiter or prospective employer, but you need to make sure you have included sufficient information for the reader to make an informed decision on your suitability for the role, and this includes making sure you have sold yourself. If page one of your CV does most of the selling, the length of the CV thereafter becomes less important.",
+      "author_id": 1,
+      "category_id": 5
+    },
+    {
+      "id": 53,
+      "title": "How do I write a CV/resume if I am changing careers?",
+      "body": "In a competitive job market where employers are looking for round pegs for round holes, changing careers can be challenging, but not impossible, as long as you are realistic. The way to write your CV/resume is to focus on your transferable skills that are relevant to your new career. Carefully studying job descriptions and identifying the 5 most important skills that the organization is looking for is your starting point. Use these skills on your CV/resume as headings on page one and write some evidence underneath each heading that you have that particular skill. STAR case studies are a great tool here, where you write mini case studies about projects or experiences in the STAR methodology. STAR is a simple acronym for Situation, Task, Actions and Result that provides a structure for writing case studies.",
+      "author_id": 1,
+      "category_id": 5
+    },
+    {
+      "id": 54,
+      "title": "Should I write my CV/resume in the third person?",
+      "body": "This answer requires a slightly technical answer and we should first define what first and third-person style writing is. Writing in the third person is writing from a third-person's point of view i.e. from the perspective of an external person. This style uses pronouns such as he, she, or they. First-person on the other hand, is written from the writer's perspective and uses pronouns such as I and my. In actual fact, when we write a CV/resume, it is written in 'implied first-person', which is using the same grammatical structure as first-person writing, but the pronouns are dropped. This more neutral style of writing is deemed more sophisticated than using pronouns throughout a CV/resume. Let's look at an example. He is an experienced Accountant with a track record of… (third-person) I am an experienced Accountant with a track record of… (first-person). An experienced Accountant with a track record of… (implied first-person)",
+      "author_id": 1,
+      "category_id": 5
+    },
+    {
+      "id": 55,
+      "title": "How do I prevent being discriminated against due to age?",
+      "body": "Unfortunately, ageism is prevalent in many countries and sectors and can be a real hindrance for certain job seekers. It's not just older people either, younger people can be discriminated against due to a perceived lack of experience and maturity. The latter is harder to get around, but if you are suffering discrimination due to being longer in the tooth, here are some tactics to circumnavigate the issue on your CV/resume. In most territories around the world, there is no need to add your date of birth Refrain from adding dates against your education and qualifications If your career started a long time ago, create a section called 'Relevant Earlier Career' and add anything more than ten years back into this section. Because you have used the word 'relevant', you can start your list of earlier roles where you feel appropriate (the 1990s is the usual cut-off point).",
+      "author_id": 1,
+      "category_id": 5
+    },
+    {
+      "id": 56,
+      "title": "What should I do if someone I don't know wants to connect with me on LinkedIn?",
+      "body": "There are two ways to approach this; the first is to be very selective about who you connect with and the second is to take a more open approach on the basis that the person you are connecting with may add some value to your life. I'm a fan of the book by James Redfield titled the Celestine Prophecy. It's about the Celestine Monks who believe in fate and that some people are sent into your life for a reason, which may not be immediately obvious to you. If you embrace the opportunity, good things will happen. There are certain situations in my life where I have engaged with someone that I didn't immediately see the point of engaging with and good things have happened thereafter. This is how I view networking - if you are open to connecting and engaging with people, who knows what opportunity might come your way as a result. It's fair to say that the more people you have in your network, the more likely it is that opportunities will come your way. My advice is to take the second and more open approach and see what happens. If someone proves to be a nuisance, you can always remove them from your network retrospectively without them being notified that this has happened. On the other hand, it may be a recruiter that wants to talk to you about an amazing job or it may be someone that ends up being of true value to your career or life.",
+      "author_id": 1,
+      "category_id": 5
+    },
+    {
+      "id": 57,
+      "title": "Why don't I hear back from agencies about jobs I have applied for?",
+      "body": "To answer this, we need to understand how recruiters operate. Recruitment offices are very fast-paced and highly competitive where there is little time for superfluous activities. Recruiters are paid largely on commission and they simply don't have time to spend on activities that will not result in making placements and therefore fees. Most recruiters are happy to provide feedback to job seekers, but if there are 100+ applicants for every role, it is simply impossible to contact all these people to explain why they weren't successful with their applications. If, on the other hand, you were shortlisted, but didn't progress to interview, or if you attended an interview but weren't hired, it is good practice for the recruiter to give honest and constructive feedback that explains why your application wasn't taken forwards.",
+      "author_id": 1,
+      "category_id": 5
+    },
+    {
+      "id": 58,
+      "title": "How long should I spend preparing for an interview?",
+      "body": "I always encourage job seekers to view an interview as a sales meeting. If we work on this basis, we should consider the size of the 'deal' that the 'sales meeting' is there to pitch for. I suggest thinking about the salary you are hoping for and the additional costs the employer will incur from hiring you (recruitment fees, pension, bonus, payroll costs, national insurance/taxes, training costs, etc). Assuming the average employee sticks around for approximately three years, we then multiply this figure by three to get the real cost of hiring you. You might be surprised by the number. This puts into perspective the fact that a couple of hours of preparation is wholly inadequate and out of kilter with what a salesperson would do before a 'real' sales meeting if they were pitching for a contract of that size. My advice, especially the more senior you become, is to do about 2 days / 15 hours of preparation for each interview. This includes researching the company, researching the people you are meeting, studying the job description and requirements of the role, gleaning information from the recruiter, and last but not least, learning yourself and all the examples you will need to prove that you have the skills and experience to perform in the role.",
+      "author_id": 1,
+      "category_id": 5
+    },
+    {
+      "id": 59,
+      "title": "Is a cover letter useful?",
+      "body": "The short answer is that it depends on the role. Most online recruitment platforms have functionality that allows candidates to send a cover letter, but that doesn't mean you should. If the job description specifically asks you to write a cover letter then of course, you should. I would argue that in this scenario, you should think of it more as a supporting statement that lays out why you are a suitable candidate for the role. A cover letter, by definition, is more of a cover note that explains why you are sending your CV/resume, opposed to why you are an appropriate candidate for the job. If there is no indication that you should send a cover letter, it is not going to do you any harm sending one, but it may be a waste of your time and effort, as in most cases, the recruiter will be more inclined to read your CV/resume than they will your cover letter. In fact, I spent over five years in recruitment and never read a cover letter once, as I expected the CV/resume to tell me everything I needed to know. I did however ask shortlisted candidates to send me a supporting statement that explained how they matched the job description. So, the answer is, send a cover letter if asked for one, but write it more as a supporting statement; if you are not asked for one, it's not going to do any harm sending one, but it's likely to be time and effort that has no bearing on your application.",
+      "author_id": 1,
+      "category_id": 5
+    }
+  ],
+  "qa_tag": [
+    {
+      "qa_id": 20,
+      "tag_id": 1
+    },
+    {
+      "qa_id": 21,
+      "tag_id": 1
+    },
+    {
+      "qa_id": 22,
+      "tag_id": 1
+    },
+    {
+      "qa_id": 23,
+      "tag_id": 1
+    },
+    {
+      "qa_id": 24,
+      "tag_id": 1
+    },
+    {
+      "qa_id": 25,
+      "tag_id": 1
+    },
+    {
+      "qa_id": 26,
+      "tag_id": 2
+    },
+    {
+      "qa_id": 27,
+      "tag_id": 2
+    },
+    {
+      "qa_id": 28,
+      "tag_id": 2
+    },
+    {
+      "qa_id": 29,
+      "tag_id": 2
+    },
+    {
+      "qa_id": 30,
+      "tag_id": 3
+    },
+    {
+      "qa_id": 31,
+      "tag_id": 3
+    },
+    {
+      "qa_id": 32,
+      "tag_id": 4
+    },
+    {
+      "qa_id": 33,
+      "tag_id": 4
+    },
+    {
+      "qa_id": 35,
+      "tag_id": 4
+    },
+    {
+      "qa_id": 36,
+      "tag_id": 5
+    },
+    {
+      "qa_id": 37,
+      "tag_id": 5
+    },
+    {
+      "qa_id": 38,
+      "tag_id": 6
+    },
+    {
+      "qa_id": 39,
+      "tag_id": 7
+    },
+    {
+      "qa_id": 40,
+      "tag_id": 7
+    },
+    {
+      "qa_id": 41,
+      "tag_id": 7
+    },
+    {
+      "qa_id": 42,
+      "tag_id": 8
+    },
+    {
+      "qa_id": 43,
+      "tag_id": 8
+    },
+    {
+      "qa_id": 44,
+      "tag_id": 9
+    },
+    {
+      "qa_id": 45,
+      "tag_id": 9
+    },
+    {
+      "qa_id": 46,
+      "tag_id": 10
+    },
+    {
+      "qa_id": 47,
+      "tag_id": 11
+    },
+    {
+      "qa_id": 48,
+      "tag_id": 11
+    },
+    {
+      "qa_id": 49,
+      "tag_id": 11
+    },
+    {
+      "qa_id": 50,
+      "tag_id": 12
+    },
+    {
+      "qa_id": 51,
+      "tag_id": 12
+    }
+  ],
+  "language": [
+    {
+      "id": 1,
+      "language_name": "Mandarin"
+    },
+    {
+      "id": 2,
+      "language_name": "Cantonese"
+    },
+    {
+      "id": 3,
+      "language_name": "Korean"
+    },
+    {
+      "id": 4,
+      "language_name": "Japanese"
+    },
+    {
+      "id": 5,
+      "language_name": "Italian"
+    },
+    {
+      "id": 6,
+      "language_name": "French"
+    },
+    {
+      "id": 7,
+      "language_name": "Vietnamese"
+    },
+    {
+      "id": 8,
+      "language_name": "Thai"
+    }
+  ],
+  "qualification": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "acquired_at": "1998-06-05T00:00:00",
+      "description": "Doctorate of Medicine"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "acquired_at": "2016-12-31T00:00:00",
+      "description": "Bachelor of Medicine"
+    },
+    {
+      "id": 3,
+      "user_id": 2,
+      "acquired_at": "2016-12-31T00:00:00",
+      "description": "Bachelor of Surgery"
+    },
+    {
+      "id": 4,
+      "user_id": 3,
+      "acquired_at": "2006-12-31T00:00:00",
+      "description": "Bachelor of Medical Sciences"
+    },
+    {
+      "id": 5,
+      "user_id": 3,
+      "acquired_at": "2006-12-31T00:00:00",
+      "description": "Fellow of the Royal Australian College of General Practitioners"
+    },
+    {
+      "id": 6,
+      "user_id": 4,
+      "acquired_at": "2006-12-31T00:00:00",
+      "description": "Diploma in Child Health"
+    },
+    {
+      "id": 7,
+      "user_id": 7,
+      "acquired_at": "2006-12-31T00:00:00",
+      "description": "Minimally Invasive Procedure for Hemorrhoids"
+    },
+    {
+      "id": 8,
+      "user_id": 8,
+      "acquired_at": "2006-12-31T00:00:00",
+      "description": "Career advicer"
+    }
+  ],
+  "user_language": [
+    {
+      "user_id": 1,
+      "language_id": 1
+    },
+    {
+      "user_id": 2,
+      "language_id": 2
+    },
+    {
+      "user_id": 3,
+      "language_id": 5
+    },
+    {
+      "user_id": 8,
+      "language_id": 1
+    }
+  ],
+  "user_category": [
+    {
+      "user_id": 1,
+      "category_id": 2
+    },
+    {
+      "user_id": 2,
+      "category_id": 1
+    },
+    {
+      "user_id": 3,
+      "category_id": 2
+    },
+    {
+      "user_id": 4,
+      "category_id": 3
+    },
+    {
+      "user_id": 4,
+      "category_id": 4
+    },
+    {
+      "user_id": 5,
+      "category_id": 5
+    },
+    {
+      "user_id": 6,
+      "category_id": 1
+    },
+    {
+      "user_id": 6,
+      "category_id": 3
+    },
+    {
+      "user_id": 7,
+      "category_id": 4
+    },
+    {
+      "user_id": 8,
+      "category_id": 5
+    },
+    {
+      "user_id": 9,
+      "category_id": 1
+    }
+  ],
+  "user_qualification": [
+    {
+      "user_id": 1,
+      "qualification_id": 2
+    },
+    {
+      "user_id": 2,
+      "qualification_id": 2
+    },
+    {
+      "user_id": 2,
+      "qualification_id": 3
+    },
+    {
+      "user_id": 3,
+      "qualification_id": 4
+    },
+    {
+      "user_id": 3,
+      "qualification_id": 2
+    },
+    {
+      "user_id": 3,
+      "qualification_id": 3
+    },
+    {
+      "user_id": 3,
+      "qualification_id": 5
+    },
+    {
+      "user_id": 4,
+      "qualification_id": 2
+    },
+    {
+      "user_id": 4,
+      "qualification_id": 3
+    },
+    {
+      "user_id": 5,
+      "qualification_id": 6
+    },
+    {
+      "user_id": 5,
+      "qualification_id": 2
+    },
+    {
+      "user_id": 6,
+      "qualification_id": 3
+    },
+    {
+      "user_id": 6,
+      "qualification_id": 5
+    },
+    {
+      "user_id": 6,
+      "qualification_id": 6
+    },
+    {
+      "user_id": 7,
+      "qualification_id": 3
+    },
+    {
+      "user_id": 7,
+      "qualification_id": 5
+    },
+    {
+      "user_id": 7,
+      "qualification_id": 7
+    },
+    {
+      "user_id": 8,
+      "qualification_id": 8
+    },
+    {
+      "user_id": 9,
+      "qualification_id": 2
+    },
+    {
+      "user_id": 9,
+      "qualification_id": 3
+    },
+    {
+      "user_id": 9,
+      "qualification_id": 5
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "description": "Have been mentoring for over 20 years."
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "description": "He commenced working as a GP in 2019, having worked in Armidale, Tamworth and Inverell in rural and regional NSW.He obtained his Fellowship of the Royal Australian College of General Practitioners, and was involved in teaching and interviewing for the School of Rural Medicine at the University of New England."
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "description": "Dr. Anthea Charalambous (BMedSc, MBBS, FRACGP) is a graduate of The University of Sydney, Fellow of The Royal Australian College of General Practitioners and is fluent in Greek. She trained as a junior doctor on The Central Coast, then at Sydney Children's Hospital and then under GP Synergy to become a General Practitioner. She has embraced working in such a unique environment which has allowed her to be a part of the previous UNSW Sexual Health Working Group whilst completing a project in Sexual Health as well as the Family Planning NSW Course. She is a member of the RACGP and the International Student Sexual Health Network."
+    },
+    {
+      "id": 4,
+      "user_id": 4,
+      "description": "Peter Patton graduated from Cape Town university in December 1973 and has a Diploma in Public Health. He works Monday and Wednesday at UNSW Health Service and three days a week doing IV sedation at women's health clinics in Chatswood and Hurstville."
+    },
+    {
+      "id": 5,
+      "user_id": 5,
+      "description": "Dr Salmon has been working at the University Health Service for over 20 years."
+    },
+    {
+      "id": 6,
+      "user_id": 6,
+      "description": "He commenced working as the Director of Health Services at UNSW in 2012 after 25 years in general practice in Western Sydney. In late 2018 he accepted the new role of Director of Health and Wellbeing in Student Life and Communities."
+    },
+    {
+      "id": 7,
+      "user_id": 7,
+      "description": "Dr Alison Parcsi is a graduate of UNSW (1996) and also holds a Masters degree International Public Health (UNSW 2014) and Fellowship of the Royal Australian College of General Practitioners (2002). Alison joined the UNSW Health Service in 2003 after working in many and varied practices, both rural and urban and a year as a volunteer, emergency doctor in Kiribati."
+    },
+    {
+      "id": 8,
+      "user_id": 8,
+      "description": "Pei grew up in Malaysia and graduated from University of New South Wales. Pei is experienced in all aspects of general career advice."
+    },
+    {
+      "id": 9,
+      "user_id": 9,
+      "description": "Dr Richard Ng initially worked at the UNSW Health Service in 1999 and has worked here continuously since 2009. He is an experienced GP, principally in his own practice in Petersham for twenty one years, in various parts of Sydney as well as some country practice. His interests lie in sports and musculoskeletal medicine, having worked with the Army and in the Army Reserve, with various rugby teams and in occupational medicine (in mining). This interest is also reflected by his own regular pursuits in running and skiing. Dr Ng is a QA examiner for the Royal Australian College of GPs and has been involved in medical education including GP registrars and mentoring medical students. In his practice, rather than relying on medical treatment, he is particularly keen to stress the role of diet, exercise and personal responsibility to maintain health."
+    }
+  ],
+  "user_experience": [
+    {
+      "user_id": 1,
+      "experience_id": 1
+    },
+    {
+      "user_id": 2,
+      "experience_id": 2
+    },
+    {
+      "user_id": 3,
+      "experience_id": 3
+    },
+    {
+      "user_id": 4,
+      "experience_id": 4
+    },
+    {
+      "user_id": 5,
+      "experience_id": 5
+    },
+    {
+      "user_id": 6,
+      "experience_id": 6
+    },
+    {
+      "user_id": 7,
+      "experience_id": 7
+    },
+    {
+      "user_id": 8,
+      "experience_id": 8
+    },
+    {
+      "user_id": 9,
+      "experience_id": 9
+    }
+  ],
+  "timerange": [
+    {
+      "id": 1,
+      "start_at": "09:00",
+      "end_at": "09:30"
+    },
+    {
+      "id": 2,
+      "start_at": "09:30",
+      "end_at": "10:00"
+    },
+    {
+      "id": 3,
+      "start_at": "10:00",
+      "end_at": "10:30"
+    },
+    {
+      "id": 4,
+      "start_at": "10:30",
+      "end_at": "11:00"
+    },
+    {
+      "id": 5,
+      "start_at": "11:00",
+      "end_at": "11:30"
+    },
+    {
+      "id": 6,
+      "start_at": "13:00",
+      "end_at": "13:30"
+    },
+    {
+      "id": 7,
+      "start_at": "13:30",
+      "end_at": "14:00"
+    },
+    {
+      "id": 8,
+      "start_at": "14:00",
+      "end_at": "14:30"
+    },
+    {
+      "id": 9,
+      "start_at": "14:30",
+      "end_at": "15:00"
+    },
+    {
+      "id": 10,
+      "start_at": "15:00",
+      "end_at": "15:30"
+    },
+    {
+      "id": 11,
+      "start_at": "15:30",
+      "end_at": "16:00"
+    },
+    {
+      "id": 12,
+      "start_at": "16:00",
+      "end_at": "16:30"
+    },
+    {
+      "id": 13,
+      "start_at": "16:30",
+      "end_at": "17:00"
+    }
+  ]
+}

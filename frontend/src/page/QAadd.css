@@ -1,0 +1,15 @@
+.wrapper-class {
+  padding: 15px;
+  border: 1px solid #ccc;
+  height: 490px;
+
+}
+
+.editor-class {
+  padding: 15px;
+  border: 1px solid #ccc;
+  height: 400px;
+}
+.toolbar-class {
+  border: 1px solid #ccc;
+}
